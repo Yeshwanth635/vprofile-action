@@ -45,7 +45,7 @@ jobs:
 
       # Check the Quality Gate status.
 
-         java-version: '11'
+        java-version: '11'
 
       # Setup sonar-scanner
       - name: Setup SonarQube
